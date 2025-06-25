@@ -3,15 +3,13 @@
 
 An interactive Power BI dashboard visualizing military expenditure trends across the world from 1949 to 2024. This project uses SIPRI (Stockholm International Peace Research Institute) data and highlights key defense metrics by country, GDP share, YoY growth, and spending patterns.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/shruti-01-narwat/Global_Military_Expenditure_Dashboard/blob/main/Dashboard.png)
 
-—
 
 📌 Project Objective
 
 To analyze, visualize, and present global military spending trends over time through insightful Power BI dashboards. This project was developed as part of an internship assignment with Pianalytix to showcase data modeling, storytelling, and visual design capabilities.
 
-—
 
 📂 Dataset
 
@@ -25,7 +23,6 @@ To analyze, visualize, and present global military spending trends over time thr
   * Country-level filtering
   * Top N spending comparisons
 
-—
 
 🛠 Tools & Technologies
 
@@ -34,7 +31,6 @@ To analyze, visualize, and present global military spending trends over time thr
 * Excel (Initial source data)
 * GitHub (Version control)
 
-—
 
 📈 Key Dashboard Features
 
@@ -46,7 +42,6 @@ To analyze, visualize, and present global military spending trends over time thr
 * 🔍 Slicers: Year, Country, Region (Interactive Filters)
 * ⏩ Play Axis: See dynamic shifts in expenditure over time
 
-—
 
 
 🚀 How to Use
@@ -60,7 +55,6 @@ To analyze, visualize, and present global military spending trends over time thr
 
 4. Adjust slicers (Year, Country) to view targeted insights
 
-—
 
 📄 Project Folder Structure
 
@@ -72,7 +66,6 @@ To analyze, visualize, and present global military spending trends over time thr
 | data\_cleaning\_script.py | Python script used to preprocess the dataset |
 | README.md                 | This readme file                             |
 
-—
 
 🧠 Insights You Can Draw
 
@@ -81,7 +74,6 @@ To analyze, visualize, and present global military spending trends over time thr
 * Which countries are increasing defense spend YoY
 * Comparisons of economic military load across nations
 
-—
 
 📝 License
 
